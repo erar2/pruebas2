@@ -1,0 +1,8 @@
+{
+    "elements" : [ {
+        "tag" : "Person",
+        "color" : "#ffffff",
+        "fontSize" : 22,
+        "shape" : "Person"
+    }]
+}
